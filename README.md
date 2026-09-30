@@ -4,8 +4,8 @@ A Flutter Android app that continuously pings a list of IPs and alerts you the
 moment a link goes down — built for NOC engineers and anyone who babysits
 network links.
 
-![Dashboard](dashboard.png)
-![About](about screenshot.png).
+![Dashboard](<dashboard screenshot.png>)
+![About](<about screenshot.png>)
 
 ## Download
 
