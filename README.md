@@ -1,4 +1,4 @@
-# Link Monitor
+# IP Link Monitor
 
 A Flutter Android app that continuously pings a list of IPs and alerts you the
 moment a link goes down — built for NOC engineers and anyone who babysits
