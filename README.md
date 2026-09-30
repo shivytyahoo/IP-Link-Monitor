@@ -5,7 +5,7 @@ moment a link goes down — built for NOC engineers and anyone who babysits
 network links.
 
 ![Dashboard](dashboard.png)
-![About](about.png)
+![About](about screenshot.png).
 
 ## Download
 
