@@ -1,0 +1,4 @@
+# Keep Git from trying to diff binary assets
+*.apk binary
+*.png binary
+*.jpg binary
